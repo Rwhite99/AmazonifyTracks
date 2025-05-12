@@ -23,7 +23,7 @@ Amazon Music account
 
 🛠️ Installation
 Clone the repo
-git clone https://github.com/yourusername/text2tunes.git
+git clone https://github.com/Rwhite99/AmazonifyTracks/.git
 cd text2tunes
 Install dependencies
 
