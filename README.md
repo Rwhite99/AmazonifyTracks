@@ -23,17 +23,10 @@ Amazon Music account
 
 🛠️ Installation
 Clone the repo
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/text2tunes.git
 cd text2tunes
 Install dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Download ChromeDriver
 
@@ -48,9 +41,6 @@ Create a text file named songs.txt in the project directory with your liked song
 
 Run the script:
 
-bash
-Copy
-Edit
 python import_songs.py
 Log in to your Amazon Music account when prompted.
 
